@@ -9,7 +9,6 @@ This project implements a **Universal Asynchronous Receiver/Transmitter (UART)**
 The project includes:
 - **UART Transmitter** module
 - **UART Receiver** module
-- **Top-level integration**
 - **Self-checking testbench**
 - **Waveform visualization using GTKWave**
 
