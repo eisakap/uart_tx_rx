@@ -30,7 +30,7 @@ The project includes:
 
 ## 📌 Learning & Impact
 
-This project was a hands-on exploration of **hardware communication protocols**, **finite state machine design**, and **timing control in digital systems**. It deepened my understanding of **synchronous design**, **clock domain handling**, and **verification practices**—core skills required in VLSI and digital design roles.
+This project was a hands-on exploration of **hardware communication protocols**, **FSM design**, and **timing control in digital systems**. It deepened my understanding of **synchronous design**, **clock domain handling**, and **verification practices**.
 
 ## 💡 Why UART?
 
